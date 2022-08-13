@@ -1,2 +1,2 @@
-# nicejjss.git.io
+# https://nicejjss.github.io/nicejjss.git.io/
 BMI CODE WITH DART AKA FLUTTER
